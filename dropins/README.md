@@ -6,7 +6,8 @@ ALWB is an Eclipse, Java based application for generating Eastern Orthodox Chris
 
 How to Download
 ---------------
-On the lower right of this page, click "Download zip"
+* Using the menu on the right, click on "Code"
+* On the lower right, click "Download zip"
 
 How to Install
 ---------------
