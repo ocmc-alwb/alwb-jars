@@ -6,8 +6,11 @@ ALWB is an Eclipse, Java based application for generating Eastern Orthodox Chris
 
 How to Download
 ---------------
-* Using the menu on the right, click on "Code"
-* On the lower right, click "Download zip"
+* Click on the word "releases" (above)
+* Usually, you will want the most recent release.
+* Right
+* In the downloads section of the release, there is a file named "Source code (zip)"
+* Right-click it, and select "Save link as..." (or the equivalent for your browser)
 
 How to Install
 ---------------
@@ -15,6 +18,7 @@ How to Install
 * Close Eclipse (if it is running)
 * Delete any existing net.ages.workbench* jars from your Eclipse\dropins folder
 * Copy the new jars into your Eclipse\dropins folder
+* After starting eclipse, you can verify the version of the jars by selecting the Eclipse > Preferences > ALWB option.  
 
 License
 -------
