@@ -10,7 +10,7 @@ How to Download
 * Usually, you will want the most recent release.
 * Right
 * In the downloads section of the release, there is a file named "Source code (zip)"
-* Right-click it, and select "Save link as..." (or the equivalent for your browser)
+* Right-click it, and select "Save link as..." (or the equivalent for your browser).
 
 How to Install
 ---------------
